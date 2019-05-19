@@ -1,0 +1,27 @@
+﻿body 
+{
+	 text-align :center;
+	 color :#004000;
+	 background-color :Aqua;
+}
+A:link
+{
+	color:Blue;
+	text-decoration:underline;
+}
+A:visited
+{
+	color:Blue;
+	text-decoration:underline;
+}
+A:hover
+{
+	color :Silver;
+	text-decoration:underline;
+	 font-style :italic ;
+}
+input
+{
+	border-color :#004040;
+}
+

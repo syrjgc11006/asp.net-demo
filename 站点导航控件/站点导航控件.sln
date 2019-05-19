@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView控件绑定数据库", "TreeView\TreeView控件绑定数据库.csproj", "{135B0042-D542-45EC-A16F-88FB45478496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView控件绑定XML", "TreeView控件绑定XML\TreeView控件绑定XML.csproj", "{F7E9D833-0656-4FE1-AF1E-30A1572900B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView控件实现站点导航", "TreeView控件实现站点导航\TreeView控件实现站点导航.csproj", "{62522281-FA95-439C-9FC2-B547F3411173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135B0042-D542-45EC-A16F-88FB45478496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135B0042-D542-45EC-A16F-88FB45478496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135B0042-D542-45EC-A16F-88FB45478496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135B0042-D542-45EC-A16F-88FB45478496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E9D833-0656-4FE1-AF1E-30A1572900B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E9D833-0656-4FE1-AF1E-30A1572900B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E9D833-0656-4FE1-AF1E-30A1572900B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E9D833-0656-4FE1-AF1E-30A1572900B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62522281-FA95-439C-9FC2-B547F3411173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62522281-FA95-439C-9FC2-B547F3411173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62522281-FA95-439C-9FC2-B547F3411173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62522281-FA95-439C-9FC2-B547F3411173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

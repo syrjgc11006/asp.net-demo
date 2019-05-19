@@ -1,0 +1,5 @@
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.SectionHandler\bin\Debug\ConfigTest.SectionHandler.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.SectionHandler\bin\Debug\ConfigTest.SectionHandler.pdb
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.SectionHandler\obj\Debug\ResolveAssemblyReference.cache
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.SectionHandler\obj\Debug\ConfigTest.SectionHandler.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.SectionHandler\obj\Debug\ConfigTest.SectionHandler.pdb

@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据控件\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据控件\WebApplication3\bin\WebApplication3.dll
+F:\实践小组\web编程\ASP.NET\数据控件\WebApplication3\bin\WebApplication3.pdb
+F:\实践小组\web编程\ASP.NET\数据控件\WebApplication3\obj\Debug\WebApplication3.dll
+F:\实践小组\web编程\ASP.NET\数据控件\WebApplication3\obj\Debug\WebApplication3.pdb

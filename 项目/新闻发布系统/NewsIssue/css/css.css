@@ -1,0 +1,39 @@
+﻿.css
+{
+	font-size: 9pt;
+	color: #000099;
+}
+.txt
+{
+	font-size: 12px;
+}
+a:link
+{
+	color: #0000FF;
+	text-decoration: none;
+}
+a:visited {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #336633;
+}
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+.title
+{
+	font-size: 12pt;
+	color: #000099;
+}
+.align
+{
+	text-align: left;
+}
+TextBox
+{
+	height: 20px;
+}

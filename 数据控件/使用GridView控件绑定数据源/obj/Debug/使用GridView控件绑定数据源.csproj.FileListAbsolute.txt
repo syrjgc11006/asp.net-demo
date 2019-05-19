@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据控件\使用GridView控件绑定数据源\bin\使用GridView控件绑定数据源.dll
+F:\实践小组\web编程\ASP.NET\数据控件\使用GridView控件绑定数据源\bin\使用GridView控件绑定数据源.pdb
+F:\实践小组\web编程\ASP.NET\数据控件\使用GridView控件绑定数据源\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据控件\使用GridView控件绑定数据源\obj\Debug\使用GridView控件绑定数据源.dll
+F:\实践小组\web编程\ASP.NET\数据控件\使用GridView控件绑定数据源\obj\Debug\使用GridView控件绑定数据源.pdb

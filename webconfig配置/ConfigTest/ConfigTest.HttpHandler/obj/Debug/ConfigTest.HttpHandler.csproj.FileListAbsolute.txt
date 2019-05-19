@@ -1,0 +1,5 @@
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.HttpHandler\bin\Debug\ConfigTest.HttpHandler.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.HttpHandler\bin\Debug\ConfigTest.HttpHandler.pdb
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.HttpHandler\obj\Debug\ResolveAssemblyReference.cache
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.HttpHandler\obj\Debug\ConfigTest.HttpHandler.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest.HttpHandler\obj\Debug\ConfigTest.HttpHandler.pdb

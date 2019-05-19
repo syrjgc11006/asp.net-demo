@@ -1,0 +1,11 @@
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.pdb
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\obj\Debug\ConfigTest.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\obj\Debug\ConfigTest.pdb
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.SectionHandler.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.SectionHandler.pdb
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.HttpHandler.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.HttpHandler.pdb
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.HttpModule.dll
+c:\users\zhangbd\documents\visual studio 2010\Projects\ConfigTest\ConfigTest\bin\ConfigTest.HttpModule.pdb

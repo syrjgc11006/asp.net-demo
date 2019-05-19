@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\homework\second\bin\second.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\homework\second\bin\second.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\homework\second\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\homework\second\obj\Debug\second.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\homework\second\obj\Debug\second.pdb

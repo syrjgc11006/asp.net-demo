@@ -1,0 +1,27 @@
+﻿body 
+{
+	 text-align :center;
+	 color :Yellow ;
+	 background-color :Navy;
+}
+A:link
+{
+	color:White ;
+	text-decoration:underline;
+}
+A:visited
+{
+	color:White;
+	text-decoration:underline;
+}
+A:hover
+{
+	color :Fuchsia;
+	text-decoration:underline;
+	 font-style :italic ;
+}
+input
+{
+	border-color :Yellow;
+}
+

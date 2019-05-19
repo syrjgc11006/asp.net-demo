@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "简单属性绑定", "简单属性绑定\简单属性绑定.csproj", "{74F9384C-37A7-4430-BFEB-BDD76878787A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "简单变量绑定", "简单变量绑定\简单变量绑定.csproj", "{51F9DF73-7112-4480-8629-E00BBE5F9307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "表达式绑定", "表达式绑定\表达式绑定.csproj", "{C58B1909-59AC-4091-8A1A-8DA9A3CBF847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F9384C-37A7-4430-BFEB-BDD76878787A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F9384C-37A7-4430-BFEB-BDD76878787A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F9384C-37A7-4430-BFEB-BDD76878787A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F9384C-37A7-4430-BFEB-BDD76878787A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F9DF73-7112-4480-8629-E00BBE5F9307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F9DF73-7112-4480-8629-E00BBE5F9307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F9DF73-7112-4480-8629-E00BBE5F9307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F9DF73-7112-4480-8629-E00BBE5F9307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58B1909-59AC-4091-8A1A-8DA9A3CBF847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58B1909-59AC-4091-8A1A-8DA9A3CBF847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58B1909-59AC-4091-8A1A-8DA9A3CBF847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58B1909-59AC-4091-8A1A-8DA9A3CBF847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

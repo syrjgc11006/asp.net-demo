@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register Src="bottom.ascx" TagName="bottom" TagPrefix="uc2" %>
+<%@ Register Src="menu.ascx" TagName="menu" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>新闻发布模板页</title>
+    <style >
+    body:{margin-top:0px}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       <table style=" width :778px" align =center cellpadding =0 cellspacing =0 >
+            <tr style="height: 214px; width :778px"  align =center>
+                <td  valign =top  >
+                    <uc1:menu id="Menu1" runat="server">
+                    </uc1:menu></td>
+            </tr>
+            <tr>
+                <td valign =top >
+                <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        
+                </asp:contentplaceholder>
+                </td>
+            </tr>
+            <tr style="height: 81px; width :778px" align =center >
+                <td style="height: 81px; width :778px" align =center >
+                    <uc2:bottom ID="Bottom1" runat="server" />
+                    </td>
+            </tr>
+        </table> 
+    </div>
+        
+    </form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据绑定\简单变量绑定\bin\简单变量绑定.dll
+F:\实践小组\web编程\ASP.NET\数据绑定\简单变量绑定\bin\简单变量绑定.pdb
+F:\实践小组\web编程\ASP.NET\数据绑定\简单变量绑定\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据绑定\简单变量绑定\obj\Debug\简单变量绑定.dll
+F:\实践小组\web编程\ASP.NET\数据绑定\简单变量绑定\obj\Debug\简单变量绑定.pdb

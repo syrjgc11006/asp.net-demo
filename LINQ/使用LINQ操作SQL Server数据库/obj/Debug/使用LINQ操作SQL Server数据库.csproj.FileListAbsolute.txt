@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\LINQ\使用LINQ操作SQL Server数据库\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\LINQ\使用LINQ操作SQL Server数据库\bin\使用LINQ操作SQL Server数据库.dll
+F:\实践小组\web编程\ASP.NET\LINQ\使用LINQ操作SQL Server数据库\bin\使用LINQ操作SQL Server数据库.pdb
+F:\实践小组\web编程\ASP.NET\LINQ\使用LINQ操作SQL Server数据库\obj\Debug\使用LINQ操作SQL Server数据库.dll
+F:\实践小组\web编程\ASP.NET\LINQ\使用LINQ操作SQL Server数据库\obj\Debug\使用LINQ操作SQL Server数据库.pdb

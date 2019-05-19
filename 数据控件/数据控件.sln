@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "查看GridView控件中数据的详细信息", "查看GridView控件中数据的详细信息\查看GridView控件中数据的详细信息.csproj", "{B01EDDFA-1D9D-413C-A0FC-55B1EC85DF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "利用GridView控件分页显示数据", "利用GridView控件分页显示数据\利用GridView控件分页显示数据.csproj", "{F4E5804D-BB51-4A1E-B635-796E32843ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用GridView控件绑定数据源", "使用GridView控件绑定数据源\使用GridView控件绑定数据源.csproj", "{1DA7A263-1C85-4BBF-800B-38CD345AABA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "在GridView控件中排序数据", "在GridView控件中排序数据\在GridView控件中排序数据.csproj", "{33091192-9109-429B-B7E2-0098C8BD9562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "在GridView控件中实现全选和全不选功能（checkbox）", "在GridView控件中实现全选和全不选功能\在GridView控件中实现全选和全不选功能（checkbox）.csproj", "{539B86AC-22D8-4584-9349-07A2DEC85775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "在GridView控件中对数据进行编辑操作", "在GridView控件中对数据进行编辑操作\在GridView控件中对数据进行编辑操作.csproj", "{6E112D39-EF82-4356-B001-B9DA7B41F410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridView控件与DropDownList控件的结合", "GridView控件与DropDownList控件的结合\GridView控件与DropDownList控件的结合.csproj", "{BF8FC71D-C173-4DCF-94C7-2281A6340C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "向GridView控件中插入记录", "向GridView控件中插入记录\向GridView控件中插入记录.csproj", "{6B9F3B8C-233D-4829-898A-7ADCFF6EFDC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01EDDFA-1D9D-413C-A0FC-55B1EC85DF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01EDDFA-1D9D-413C-A0FC-55B1EC85DF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01EDDFA-1D9D-413C-A0FC-55B1EC85DF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01EDDFA-1D9D-413C-A0FC-55B1EC85DF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E5804D-BB51-4A1E-B635-796E32843ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E5804D-BB51-4A1E-B635-796E32843ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E5804D-BB51-4A1E-B635-796E32843ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E5804D-BB51-4A1E-B635-796E32843ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA7A263-1C85-4BBF-800B-38CD345AABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA7A263-1C85-4BBF-800B-38CD345AABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA7A263-1C85-4BBF-800B-38CD345AABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA7A263-1C85-4BBF-800B-38CD345AABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33091192-9109-429B-B7E2-0098C8BD9562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33091192-9109-429B-B7E2-0098C8BD9562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33091192-9109-429B-B7E2-0098C8BD9562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33091192-9109-429B-B7E2-0098C8BD9562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539B86AC-22D8-4584-9349-07A2DEC85775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539B86AC-22D8-4584-9349-07A2DEC85775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539B86AC-22D8-4584-9349-07A2DEC85775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539B86AC-22D8-4584-9349-07A2DEC85775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E112D39-EF82-4356-B001-B9DA7B41F410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E112D39-EF82-4356-B001-B9DA7B41F410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E112D39-EF82-4356-B001-B9DA7B41F410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E112D39-EF82-4356-B001-B9DA7B41F410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8FC71D-C173-4DCF-94C7-2281A6340C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8FC71D-C173-4DCF-94C7-2281A6340C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8FC71D-C173-4DCF-94C7-2281A6340C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8FC71D-C173-4DCF-94C7-2281A6340C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9F3B8C-233D-4829-898A-7ADCFF6EFDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9F3B8C-233D-4829-898A-7ADCFF6EFDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9F3B8C-233D-4829-898A-7ADCFF6EFDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9F3B8C-233D-4829-898A-7ADCFF6EFDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

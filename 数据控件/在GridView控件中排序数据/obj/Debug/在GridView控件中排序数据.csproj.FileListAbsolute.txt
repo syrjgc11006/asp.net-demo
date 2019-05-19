@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据控件\在GridView控件中排序数据\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据控件\在GridView控件中排序数据\bin\在GridView控件中排序数据.dll
+F:\实践小组\web编程\ASP.NET\数据控件\在GridView控件中排序数据\bin\在GridView控件中排序数据.pdb
+F:\实践小组\web编程\ASP.NET\数据控件\在GridView控件中排序数据\obj\Debug\在GridView控件中排序数据.dll
+F:\实践小组\web编程\ASP.NET\数据控件\在GridView控件中排序数据\obj\Debug\在GridView控件中排序数据.pdb

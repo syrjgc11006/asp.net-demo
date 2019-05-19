@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Session\使用session对象存储和读取数据\bin\使用session对象存储和读取数据.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Session\使用session对象存储和读取数据\bin\使用session对象存储和读取数据.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Session\使用session对象存储和读取数据\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Session\使用session对象存储和读取数据\obj\Debug\使用session对象存储和读取数据.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Session\使用session对象存储和读取数据\obj\Debug\使用session对象存储和读取数据.pdb
+F:\实践小组\web编程\ASP.NET\Session\使用session对象存储和读取数据\bin\使用session对象存储和读取数据.dll
+F:\实践小组\web编程\ASP.NET\Session\使用session对象存储和读取数据\bin\使用session对象存储和读取数据.pdb
+F:\实践小组\web编程\ASP.NET\Session\使用session对象存储和读取数据\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\Session\使用session对象存储和读取数据\obj\Debug\使用session对象存储和读取数据.dll
+F:\实践小组\web编程\ASP.NET\Session\使用session对象存储和读取数据\obj\Debug\使用session对象存储和读取数据.pdb

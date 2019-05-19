@@ -1,0 +1,150 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{77F4617E-20EB-44FC-A6CC-219A8F68FC3A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>myWebsite</RootNamespace>
+    <AssemblyName>myWebsite</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\图片\IMG_20130505_125447.gif" />
+    <Content Include="Request.aspx" />
+    <Content Include="Request对象.aspx" />
+    <Content Include="response对象.aspx" />
+    <Content Include="welcom.aspx" />
+    <Content Include="外部链接的html代码\20.css" />
+    <Content Include="外部链接的html代码\20.html" />
+    <Content Include="外部链接的html代码\banner.jpg" />
+    <Content Include="外部链接的html代码\beauty1.jpg" />
+    <Content Include="外部链接的html代码\beauty2.jpg" />
+    <Content Include="外部链接的html代码\beauty3.jpg" />
+    <Content Include="外部链接的html代码\beauty4.jpg" />
+    <Content Include="外部链接的html代码\button1.jpg" />
+    <Content Include="外部链接的html代码\button1_bg.jpg" />
+    <Content Include="外部链接的html代码\DIVCSS布局.html" />
+    <Content Include="外部链接的html代码\ghost.jpg" />
+    <Content Include="外部链接的html代码\icon1.gif" />
+    <Content Include="外部链接的html代码\icon2.gif" />
+    <Content Include="外部链接的html代码\map1.jpg" />
+    <Content Include="外部链接的html代码\map2.jpg" />
+    <Content Include="外部链接的html代码\MyHtml.html" />
+    <Content Include="外部链接的html代码\picture_h1.gif" />
+    <Content Include="外部链接的html代码\route_h1.gif" />
+    <Content Include="外部链接的html代码\tuijian1.jpg" />
+    <Content Include="外部链接的html代码\tuijian2.jpg" />
+    <Content Include="外部链接的html代码\tuijian3.jpg" />
+    <Content Include="外部链接的html代码\weather.jpg" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Request.aspx.cs">
+      <DependentUpon>Request.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Request.aspx.designer.cs">
+      <DependentUpon>Request.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Request对象.aspx.cs">
+      <DependentUpon>Request对象.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Request对象.aspx.designer.cs">
+      <DependentUpon>Request对象.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="response对象.aspx.cs">
+      <DependentUpon>response对象.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="response对象.aspx.designer.cs">
+      <DependentUpon>response对象.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="welcom.aspx.cs">
+      <DependentUpon>welcom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="welcom.aspx.designer.cs">
+      <DependentUpon>welcom.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="外部链接的html代码\banner.psd" />
+    <None Include="外部链接的html代码\button.psd" />
+    <None Include="外部链接的html代码\ghost.psd" />
+    <None Include="外部链接的html代码\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49532</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

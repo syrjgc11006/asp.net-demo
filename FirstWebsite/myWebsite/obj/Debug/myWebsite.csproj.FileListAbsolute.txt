@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\FirstWebsite\myWebsite\bin\myWebsite.dll
+C:\Users\Administrator\Desktop\FirstWebsite\myWebsite\bin\myWebsite.pdb
+C:\Users\Administrator\Desktop\FirstWebsite\myWebsite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FirstWebsite\myWebsite\obj\Debug\myWebsite.dll
+C:\Users\Administrator\Desktop\FirstWebsite\myWebsite\obj\Debug\myWebsite.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FirstWebsite\myWebsite\bin\myWebsite.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FirstWebsite\myWebsite\bin\myWebsite.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FirstWebsite\myWebsite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FirstWebsite\myWebsite\obj\Debug\myWebsite.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FirstWebsite\myWebsite\obj\Debug\myWebsite.pdb

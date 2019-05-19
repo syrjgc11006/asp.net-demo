@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\ADO.NET\使用command对象查询数据\bin\使用command对象查询数据.dll
+F:\实践小组\web编程\ASP.NET\ADO.NET\使用command对象查询数据\bin\使用command对象查询数据.pdb
+F:\实践小组\web编程\ASP.NET\ADO.NET\使用command对象查询数据\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\ADO.NET\使用command对象查询数据\obj\Debug\使用command对象查询数据.dll
+F:\实践小组\web编程\ASP.NET\ADO.NET\使用command对象查询数据\obj\Debug\使用command对象查询数据.pdb

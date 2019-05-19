@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\简易聊天室\简易聊天室\bin\简易聊天室.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\简易聊天室\简易聊天室\bin\简易聊天室.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\简易聊天室\简易聊天室\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\简易聊天室\简易聊天室\obj\Debug\简易聊天室.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\简易聊天室\简易聊天室\obj\Debug\简易聊天室.pdb
+F:\实践小组\web编程\ASP.NET\homework\简易聊天室\简易聊天室\bin\简易聊天室.dll
+F:\实践小组\web编程\ASP.NET\homework\简易聊天室\简易聊天室\bin\简易聊天室.pdb
+F:\实践小组\web编程\ASP.NET\homework\简易聊天室\简易聊天室\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\homework\简易聊天室\简易聊天室\obj\Debug\简易聊天室.dll
+F:\实践小组\web编程\ASP.NET\homework\简易聊天室\简易聊天室\obj\Debug\简易聊天室.pdb

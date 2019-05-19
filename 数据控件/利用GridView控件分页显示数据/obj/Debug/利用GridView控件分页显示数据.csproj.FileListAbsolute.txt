@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据控件\利用GridView控件分页显示数据\bin\利用GridView控件分页显示数据.dll
+F:\实践小组\web编程\ASP.NET\数据控件\利用GridView控件分页显示数据\bin\利用GridView控件分页显示数据.pdb
+F:\实践小组\web编程\ASP.NET\数据控件\利用GridView控件分页显示数据\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据控件\利用GridView控件分页显示数据\obj\Debug\利用GridView控件分页显示数据.dll
+F:\实践小组\web编程\ASP.NET\数据控件\利用GridView控件分页显示数据\obj\Debug\利用GridView控件分页显示数据.pdb

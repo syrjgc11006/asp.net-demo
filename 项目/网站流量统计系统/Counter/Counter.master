@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Counter.master.cs" Inherits="Counter" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>网站流量统计</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width: 749px" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td style="background-image: url(Image/1.jpg); width: 749px; height: 64px">
+                </td>
+            </tr>
+            <tr>
+                <td style="height: 41px">
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/Default.aspx" ImageUrl="~/Image/按钮1.jpg"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl ="~/DayCount.aspx" ImageUrl="~/Image/按钮2.jpg" ></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl ="~/MonthCount.aspx" ImageUrl="~/Image/按钮3.jpg"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl ="~/YearCount.aspx" ImageUrl="~/Image/按钮4.jpg"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/IPCount.aspx" ImageUrl="~/Image/按钮5.jpg"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl ="~/BrowserCount.aspx" ImageUrl="~/Image/按钮6.jpg"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl ="~/OSCount.aspx" ImageUrl="~/Image/按钮7.jpg"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td>
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

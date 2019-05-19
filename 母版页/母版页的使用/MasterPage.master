@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>无标题页</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="text-align: center">
+        &nbsp;<table border="0" cellpadding="0" cellspacing="0" style="width: 759px; text-align: left">
+            <tr>
+                <td colspan="1" rowspan="2" style="background-image: url(Image/baner.jpg); width: 759px;
+                    height: 124px">
+                </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                <td style="background-image: url(Image/2.jpg); width: 760px; height: 498px">
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 707px; height: 379px">
+                        <tr>
+                            <td style="width: 256px; height: 241px">
+                                <table border="0" cellpadding="0" cellspacing="0" style="width: 246px; height: 329px">
+                                    <tr>
+                                        <td style="width: 47px">
+                                        </td>
+                                        <td align="center">
+                                            <asp:LinkButton ID="LinkButton1" runat="server" ForeColor="Green" OnClick="LinkButton1_Click">博客首页</asp:LinkButton></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 47px">
+                                        </td>
+                                        <td align="center">
+                                            <asp:LinkButton ID="LinkButton2" runat="server" ForeColor="Green" OnClick="LinkButton2_Click">文章管理</asp:LinkButton></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 47px">
+                                        </td>
+                                        <td align="center">
+                                            <asp:LinkButton ID="LinkButton3" runat="server" ForeColor="Green" OnClick="LinkButton3_Click">图片管理</asp:LinkButton></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 47px">
+                                        </td>
+                                        <td align="center">
+                                            <asp:LinkButton ID="LinkButton4" runat="server" ForeColor="Green" OnClick="LinkButton4_Click">我的社区</asp:LinkButton></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 47px">
+                                        </td>
+                                        <td align="center">
+                                            <asp:LinkButton ID="LinkButton5" runat="server" ForeColor="Green" OnClick="LinkButton5_Click">好友管理</asp:LinkButton></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 47px">
+                                        </td>
+                                        <td align="center">
+                                            <asp:LinkButton ID="LinkButton6" runat="server" ForeColor="Green" OnClick="LinkButton6_Click">留言管理</asp:LinkButton></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 47px">
+                                        </td>
+                                        <td align="center">
+                                            <asp:LinkButton ID="LinkButton7" runat="server" ForeColor="Green" OnClick="LinkButton7_Click">退出博客</asp:LinkButton></td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td style="width: 445px; height: 241px">
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="1" style="background-image: url(Image/3.jpg); width: 760px; height: 107px">
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

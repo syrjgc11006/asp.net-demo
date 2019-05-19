@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainMaster.master.cs" Inherits="MainMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>主母版页</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width: 759px; height: 758px" cellpadding="0" cellspacing="0">
+            <tr>
+                <td style="background-image: url(Image/baner.jpg); width: 759px; height: 153px">
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 759px; height: 498px" align="center" valign="middle">
+        <asp:contentplaceholder id="MainContent" runat="server">
+        </asp:contentplaceholder>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-image: url(Image/3.jpg); width: 759px; height: 107px">
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

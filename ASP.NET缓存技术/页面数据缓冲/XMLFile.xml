@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GoodsInfo>
+  <Item>
+    <GoodsClass>鲜花绿植</GoodsClass>
+    <GoodsName>玫瑰花</GoodsName>
+  </Item>
+  <Item>
+    <GoodsClass>鲜花绿植</GoodsClass>
+    <GoodsName>菊花</GoodsName>
+  </Item>
+  <Item>
+    <GoodsClass>鲜花绿植</GoodsClass>
+    <GoodsName>月季</GoodsName>
+  </Item>
+  <Item>
+    <GoodsClass>时尚礼品</GoodsClass>
+    <GoodsName>金珠耳环</GoodsName>
+  </Item>
+  <Item>
+    <GoodsClass>时尚礼品</GoodsClass>
+    <GoodsName>金珠手镯</GoodsName>
+  </Item>
+  <Item>
+    <GoodsClass>时尚礼品</GoodsClass>
+    <GoodsName>太碾手表</GoodsName>
+  </Item>
+</GoodsInfo>

@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="SubMaster.master.cs" Inherits="SubMaster" MasterPageFile ="~/MainMaster.master" %>
+<asp:Content id="Content1" ContentPlaceholderID="MainContent" runat="server">
+    <table style="background-image: url(Image/2.jpg); width:759px; height: 498px">
+    <tr>
+    <td align ="center" valign ="middle">
+        <h1>子母版页</h1>
+    </td>
+    <td align ="center" valign ="middle">
+        <asp:contentplaceholder id="SubContent" runat="server">
+        </asp:contentplaceholder>
+    </td>
+    </tr>
+    </table>
+</asp:Content>

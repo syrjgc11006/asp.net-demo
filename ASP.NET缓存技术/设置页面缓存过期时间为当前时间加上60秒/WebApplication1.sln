@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设置页面缓存过期时间为当前时间加上60秒", "设置页面缓存过期时间为当前时间加上60秒.csproj", "{C52267B0-90B5-4F2D-96D0-3151AFFA6526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C52267B0-90B5-4F2D-96D0-3151AFFA6526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52267B0-90B5-4F2D-96D0-3151AFFA6526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52267B0-90B5-4F2D-96D0-3151AFFA6526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52267B0-90B5-4F2D-96D0-3151AFFA6526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

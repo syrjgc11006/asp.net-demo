@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据控件\向GridView控件中插入记录\bin\向GridView控件中插入记录.dll
+F:\实践小组\web编程\ASP.NET\数据控件\向GridView控件中插入记录\bin\向GridView控件中插入记录.pdb
+F:\实践小组\web编程\ASP.NET\数据控件\向GridView控件中插入记录\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据控件\向GridView控件中插入记录\obj\Debug\向GridView控件中插入记录.dll
+F:\实践小组\web编程\ASP.NET\数据控件\向GridView控件中插入记录\obj\Debug\向GridView控件中插入记录.pdb

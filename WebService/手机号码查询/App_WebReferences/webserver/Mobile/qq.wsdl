@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="QQ_Online">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="qqcode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="QQ_OnlineResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="QQ_OnlineResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Send_qq">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="qq_Code" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Send_qqResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Send_qqResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ip_add" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IPResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Mobile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Mobile" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="MobileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="MobileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CHINA_Weather">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="China_City" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CHINA_WeatherResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CHINA_WeatherResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="ArrayOfString" nillable="true" type="tns:ArrayOfString" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="QQ_OnlineSoapIn">
+    <wsdl:part name="parameters" element="tns:QQ_Online" />
+  </wsdl:message>
+  <wsdl:message name="QQ_OnlineSoapOut">
+    <wsdl:part name="parameters" element="tns:QQ_OnlineResponse" />
+  </wsdl:message>
+  <wsdl:message name="Send_qqSoapIn">
+    <wsdl:part name="parameters" element="tns:Send_qq" />
+  </wsdl:message>
+  <wsdl:message name="Send_qqSoapOut">
+    <wsdl:part name="parameters" element="tns:Send_qqResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPSoapIn">
+    <wsdl:part name="parameters" element="tns:IP" />
+  </wsdl:message>
+  <wsdl:message name="IPSoapOut">
+    <wsdl:part name="parameters" element="tns:IPResponse" />
+  </wsdl:message>
+  <wsdl:message name="MobileSoapIn">
+    <wsdl:part name="parameters" element="tns:Mobile" />
+  </wsdl:message>
+  <wsdl:message name="MobileSoapOut">
+    <wsdl:part name="parameters" element="tns:MobileResponse" />
+  </wsdl:message>
+  <wsdl:message name="CHINA_WeatherSoapIn">
+    <wsdl:part name="parameters" element="tns:CHINA_Weather" />
+  </wsdl:message>
+  <wsdl:message name="CHINA_WeatherSoapOut">
+    <wsdl:part name="parameters" element="tns:CHINA_WeatherResponse" />
+  </wsdl:message>
+  <wsdl:message name="QQ_OnlineHttpGetIn">
+    <wsdl:part name="qqcode" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="QQ_OnlineHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="Send_qqHttpGetIn">
+    <wsdl:part name="qq_Code" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="Send_qqHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="IPHttpGetIn">
+    <wsdl:part name="ip_add" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="IPHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="MobileHttpGetIn">
+    <wsdl:part name="Mobile" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="MobileHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="CHINA_WeatherHttpGetIn">
+    <wsdl:part name="China_City" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CHINA_WeatherHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfString" />
+  </wsdl:message>
+  <wsdl:message name="QQ_OnlineHttpPostIn">
+    <wsdl:part name="qqcode" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="QQ_OnlineHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="Send_qqHttpPostIn">
+    <wsdl:part name="qq_Code" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="Send_qqHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="IPHttpPostIn">
+    <wsdl:part name="ip_add" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="IPHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="MobileHttpPostIn">
+    <wsdl:part name="Mobile" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="MobileHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="CHINA_WeatherHttpPostIn">
+    <wsdl:part name="China_City" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CHINA_WeatherHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfString" />
+  </wsdl:message>
+  <wsdl:portType name="QQSoap">
+    <wsdl:operation name="QQ_Online">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">判断QQ在否在线,接收一个QQ号码，返回一个图片地址，能用图片你就可以知道QQ是否在线！</documentation>
+      <wsdl:input message="tns:QQ_OnlineSoapIn" />
+      <wsdl:output message="tns:QQ_OnlineSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Send_qq">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">接收一个QQ号码，返回一个连接地址，在浏览器中输入这个地址就可以发送QQ消息</documentation>
+      <wsdl:input message="tns:Send_qqSoapIn" />
+      <wsdl:output message="tns:Send_qqSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IP">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">IP地址查询,输入一个IP地址，如：135.251.56.85,返回一个字符串，表示地区</documentation>
+      <wsdl:input message="tns:IPSoapIn" />
+      <wsdl:output message="tns:IPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Mobile">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">手机号码查询，输入手机号码，返回一个字符串表示地区</documentation>
+      <wsdl:input message="tns:MobileSoapIn" />
+      <wsdl:output message="tns:MobileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CHINA_Weather">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">天气早知道，输入的中国或者世界大中小城市名称，如：温州,东京。返回一个一维数值，共有七个元素，从[0]到[8]分别表示城市，日期，天气图形地址，天气，温度，风，紫外线，空气质量</documentation>
+      <wsdl:input message="tns:CHINA_WeatherSoapIn" />
+      <wsdl:output message="tns:CHINA_WeatherSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="QQHttpGet">
+    <wsdl:operation name="QQ_Online">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">判断QQ在否在线,接收一个QQ号码，返回一个图片地址，能用图片你就可以知道QQ是否在线！</documentation>
+      <wsdl:input message="tns:QQ_OnlineHttpGetIn" />
+      <wsdl:output message="tns:QQ_OnlineHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Send_qq">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">接收一个QQ号码，返回一个连接地址，在浏览器中输入这个地址就可以发送QQ消息</documentation>
+      <wsdl:input message="tns:Send_qqHttpGetIn" />
+      <wsdl:output message="tns:Send_qqHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IP">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">IP地址查询,输入一个IP地址，如：135.251.56.85,返回一个字符串，表示地区</documentation>
+      <wsdl:input message="tns:IPHttpGetIn" />
+      <wsdl:output message="tns:IPHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Mobile">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">手机号码查询，输入手机号码，返回一个字符串表示地区</documentation>
+      <wsdl:input message="tns:MobileHttpGetIn" />
+      <wsdl:output message="tns:MobileHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CHINA_Weather">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">天气早知道，输入的中国或者世界大中小城市名称，如：温州,东京。返回一个一维数值，共有七个元素，从[0]到[8]分别表示城市，日期，天气图形地址，天气，温度，风，紫外线，空气质量</documentation>
+      <wsdl:input message="tns:CHINA_WeatherHttpGetIn" />
+      <wsdl:output message="tns:CHINA_WeatherHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="QQHttpPost">
+    <wsdl:operation name="QQ_Online">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">判断QQ在否在线,接收一个QQ号码，返回一个图片地址，能用图片你就可以知道QQ是否在线！</documentation>
+      <wsdl:input message="tns:QQ_OnlineHttpPostIn" />
+      <wsdl:output message="tns:QQ_OnlineHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Send_qq">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">接收一个QQ号码，返回一个连接地址，在浏览器中输入这个地址就可以发送QQ消息</documentation>
+      <wsdl:input message="tns:Send_qqHttpPostIn" />
+      <wsdl:output message="tns:Send_qqHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IP">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">IP地址查询,输入一个IP地址，如：135.251.56.85,返回一个字符串，表示地区</documentation>
+      <wsdl:input message="tns:IPHttpPostIn" />
+      <wsdl:output message="tns:IPHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Mobile">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">手机号码查询，输入手机号码，返回一个字符串表示地区</documentation>
+      <wsdl:input message="tns:MobileHttpPostIn" />
+      <wsdl:output message="tns:MobileHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CHINA_Weather">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">天气早知道，输入的中国或者世界大中小城市名称，如：温州,东京。返回一个一维数值，共有七个元素，从[0]到[8]分别表示城市，日期，天气图形地址，天气，温度，风，紫外线，空气质量</documentation>
+      <wsdl:input message="tns:CHINA_WeatherHttpPostIn" />
+      <wsdl:output message="tns:CHINA_WeatherHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="QQSoap" type="tns:QQSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="QQ_Online">
+      <soap:operation soapAction="http://tempuri.org/QQ_Online" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send_qq">
+      <soap:operation soapAction="http://tempuri.org/Send_qq" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IP">
+      <soap:operation soapAction="http://tempuri.org/IP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Mobile">
+      <soap:operation soapAction="http://tempuri.org/Mobile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CHINA_Weather">
+      <soap:operation soapAction="http://tempuri.org/CHINA_Weather" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QQHttpGet" type="tns:QQHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="QQ_Online">
+      <http:operation location="/QQ_Online" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send_qq">
+      <http:operation location="/Send_qq" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IP">
+      <http:operation location="/IP" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Mobile">
+      <http:operation location="/Mobile" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CHINA_Weather">
+      <http:operation location="/CHINA_Weather" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QQHttpPost" type="tns:QQHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="QQ_Online">
+      <http:operation location="/QQ_Online" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send_qq">
+      <http:operation location="/Send_qq" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IP">
+      <http:operation location="/IP" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Mobile">
+      <http:operation location="/Mobile" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CHINA_Weather">
+      <http:operation location="/CHINA_Weather" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="QQ">
+    <wsdl:port name="QQSoap" binding="tns:QQSoap">
+      <soap:address location="http://webserver.wzilin.com/webserver/WS_BIG5/qq.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QQHttpGet" binding="tns:QQHttpGet">
+      <http:address location="http://webserver.wzilin.com/webserver/WS_BIG5/qq.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QQHttpPost" binding="tns:QQHttpPost">
+      <http:address location="http://webserver.wzilin.com/webserver/WS_BIG5/qq.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

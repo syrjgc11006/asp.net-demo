@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\聊天室程序\chatline\bin\chatline.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\聊天室程序\chatline\bin\chatline.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\聊天室程序\chatline\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\聊天室程序\chatline\obj\Debug\chatline.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\聊天室程序\chatline\obj\Debug\chatline.pdb
+F:\实践小组\web编程\ASP.NET\聊天室程序\chatline\bin\chatline.dll
+F:\实践小组\web编程\ASP.NET\聊天室程序\chatline\bin\chatline.pdb
+F:\实践小组\web编程\ASP.NET\聊天室程序\chatline\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\聊天室程序\chatline\obj\Debug\chatline.dll
+F:\实践小组\web编程\ASP.NET\聊天室程序\chatline\obj\Debug\chatline.pdb

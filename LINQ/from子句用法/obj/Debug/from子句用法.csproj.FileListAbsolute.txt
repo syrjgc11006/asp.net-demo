@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\LINQ\from子句用法\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\LINQ\from子句用法\bin\from子句用法.dll
+F:\实践小组\web编程\ASP.NET\LINQ\from子句用法\bin\from子句用法.pdb
+F:\实践小组\web编程\ASP.NET\LINQ\from子句用法\obj\Debug\from子句用法.dll
+F:\实践小组\web编程\ASP.NET\LINQ\from子句用法\obj\Debug\from子句用法.pdb

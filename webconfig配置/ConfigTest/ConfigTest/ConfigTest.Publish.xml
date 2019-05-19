@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Web\ConfigTest" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="11/23/2010 15:41:23" />
+    <file relUrl="login.aspx" publishTime="11/22/2010 16:35:01" />
+    <file relUrl="appSettingsPage.aspx" publishTime="11/22/2010 16:02:38" />
+    <file relUrl="bin/ConfigTest.SectionHandler.dll" publishTime="11/22/2010 16:30:41" />
+    <file relUrl="SectionHandlerPage.aspx" publishTime="11/22/2010 15:17:01" />
+    <file relUrl="bin/ConfigTest.HttpModule.dll" publishTime="11/22/2010 17:16:08" />
+    <file relUrl="bin/ConfigTest.HttpHandler.pdb" publishTime="11/22/2010 17:13:04" />
+    <file relUrl="bin/ConfigTest.dll" publishTime="11/23/2010 15:48:42" />
+    <file relUrl="bin/ConfigTest.pdb" publishTime="11/23/2010 15:48:42" />
+    <file relUrl="connectionStringsPage.aspx" publishTime="11/22/2010 16:08:40" />
+    <file relUrl="bin/ConfigTest.HttpModule.pdb" publishTime="11/22/2010 17:16:08" />
+    <file relUrl="bin/ConfigTest.HttpHandler.dll" publishTime="11/22/2010 17:13:04" />
+    <file relUrl="Default.aspx" publishTime="11/23/2010 14:28:00" />
+    <file relUrl="bin/ConfigTest.SectionHandler.pdb" publishTime="11/22/2010 16:30:41" />
+  </publishProfile>
+</publishData>

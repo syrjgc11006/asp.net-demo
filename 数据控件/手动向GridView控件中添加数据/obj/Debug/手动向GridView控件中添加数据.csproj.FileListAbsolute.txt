@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据控件\手动向GridView控件中添加数据\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据控件\手动向GridView控件中添加数据\bin\手动向GridView控件中添加数据.dll
+F:\实践小组\web编程\ASP.NET\数据控件\手动向GridView控件中添加数据\bin\手动向GridView控件中添加数据.pdb
+F:\实践小组\web编程\ASP.NET\数据控件\手动向GridView控件中添加数据\obj\Debug\手动向GridView控件中添加数据.dll
+F:\实践小组\web编程\ASP.NET\数据控件\手动向GridView控件中添加数据\obj\Debug\手动向GridView控件中添加数据.pdb

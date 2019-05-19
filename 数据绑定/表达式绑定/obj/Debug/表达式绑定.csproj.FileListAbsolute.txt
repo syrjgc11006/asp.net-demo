@@ -1,0 +1,9 @@
+F:\实践小组\web编程\ASP.NET\数据绑定\表达式绑定\bin\表达式绑定.dll
+F:\实践小组\web编程\ASP.NET\数据绑定\表达式绑定\bin\表达式绑定.pdb
+F:\实践小组\web编程\ASP.NET\数据绑定\表达式绑定\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据绑定\表达式绑定\obj\Debug\表达式绑定.dll
+F:\实践小组\web编程\ASP.NET\数据绑定\表达式绑定\obj\Debug\表达式绑定.pdb
+F:\实践小组\web编程\ASP.NET（代码）\数据绑定\表达式绑定\bin\表达式绑定.dll
+F:\实践小组\web编程\ASP.NET（代码）\数据绑定\表达式绑定\bin\表达式绑定.pdb
+F:\实践小组\web编程\ASP.NET（代码）\数据绑定\表达式绑定\obj\Debug\表达式绑定.dll
+F:\实践小组\web编程\ASP.NET（代码）\数据绑定\表达式绑定\obj\Debug\表达式绑定.pdb

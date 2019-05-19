@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\bin\使用FileUpload控件上传图片.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\bin\使用FileUpload控件上传图片.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\obj\Debug\使用FileUpload控件上传图片.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\obj\Debug\使用FileUpload控件上传图片.pdb
+F:\实践小组\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\bin\使用FileUpload控件上传图片.dll
+F:\实践小组\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\bin\使用FileUpload控件上传图片.pdb
+F:\实践小组\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\obj\Debug\使用FileUpload控件上传图片.dll
+F:\实践小组\web编程\ASP.NET\FileUpload\使用FileUpload控件上传图片\obj\Debug\使用FileUpload控件上传图片.pdb

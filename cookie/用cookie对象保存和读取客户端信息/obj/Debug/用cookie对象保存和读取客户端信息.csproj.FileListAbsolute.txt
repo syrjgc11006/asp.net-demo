@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\bin\用cookie对象保存和读取客户端信息.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\bin\用cookie对象保存和读取客户端信息.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\obj\Debug\用cookie对象保存和读取客户端信息.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\obj\Debug\用cookie对象保存和读取客户端信息.pdb
+F:\实践小组\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\bin\用cookie对象保存和读取客户端信息.dll
+F:\实践小组\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\bin\用cookie对象保存和读取客户端信息.pdb
+F:\实践小组\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\obj\Debug\用cookie对象保存和读取客户端信息.dll
+F:\实践小组\web编程\ASP.NET\cookie\用cookie对象保存和读取客户端信息\obj\Debug\用cookie对象保存和读取客户端信息.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root url="Default.aspx" name="学生信息" describe="studentInfo">
+  <Parent url="class1.aspx" name="一班" describe="classOne">
+    <Child url="stu11.aspx" name="小明" describe="xiaoming"></Child>
+    <Child url="stu12.aspx" name="小亮" describe="xiaoliang"></Child>
+  </Parent>
+  <Parent url="class2.aspx" name="二班" describe="classTwo">
+    <Child url="stu21.aspx" name="小红" describe="xiaohong"></Child>
+    <Child url="stu22.aspx" name="小白" describe="xiaobai"></Child>
+  </Parent>
+</Root>

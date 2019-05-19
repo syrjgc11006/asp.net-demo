@@ -1,0 +1,42 @@
+﻿.Font
+{
+	font-size: 9pt;
+}
+/*按钮样式*/
+.ButtonCss {
+    font-family: "Tahoma", "宋体";
+    font-size: 9pt; color: #003399;
+    border: 1px #003399 solid;
+    BORDER-BOTTOM: #93bee2 1px solid; 
+    BORDER-LEFT: #93bee2 1px solid; 
+    BORDER-RIGHT: #93bee2 1px solid; 
+    BORDER-TOP: #93bee2 1px solid;
+    background-color: #e8f4ff;
+    CURSOR: hand;
+    font-style: normal ;
+}
+.TableCss
+{
+	font-size: 9pt; 
+	vertical-align: middle; 
+	color: black; 
+	font-family: 宋体; 
+	text-align: center
+}
+a:link
+{
+	color: #0000FF;
+	text-decoration: none;
+}
+a:visited {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #336633;
+}
+a:active {
+	text-decoration: none;
+	color: #000000;
+}

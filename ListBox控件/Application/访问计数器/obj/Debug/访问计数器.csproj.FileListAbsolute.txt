@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Application\访问计数器\bin\访问计数器.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Application\访问计数器\bin\访问计数器.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Application\访问计数器\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Application\访问计数器\obj\Debug\访问计数器.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Application\访问计数器\obj\Debug\访问计数器.pdb
+F:\实践小组\web编程\ASP.NET\Application\访问计数器\bin\访问计数器.dll
+F:\实践小组\web编程\ASP.NET\Application\访问计数器\bin\访问计数器.pdb
+F:\实践小组\web编程\ASP.NET\Application\访问计数器\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\Application\访问计数器\obj\Debug\访问计数器.dll
+F:\实践小组\web编程\ASP.NET\Application\访问计数器\obj\Debug\访问计数器.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Image\动态显示图像\bin\动态显示图像.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Image\动态显示图像\bin\动态显示图像.pdb
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Image\动态显示图像\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Image\动态显示图像\obj\Debug\动态显示图像.dll
+C:\Users\Administrator\Desktop\web编程\ASP.NET\Image\动态显示图像\obj\Debug\动态显示图像.pdb

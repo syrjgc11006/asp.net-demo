@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Default.aspx" title="学生信息"  description="studentInfo">
+        <siteMapNode url="class1.aspx" title="一班"  description="classOne">
+            <siteMapNode url="stu11.aspx" title="小明"  description="xiaoming" />
+            <siteMapNode url="stu12.aspx" title="小亮"  description="xiaoliang" />
+         </siteMapNode>
+        <siteMapNode url="class2.aspx" title="二班"  description="classTwo">
+            <siteMapNode url="stu21.aspx" title="小红"  description="xiaohong" />
+            <siteMapNode url="stu22.aspx" title="小白"  description="xiaobai" />
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first", "first\first.csproj", "{3D6B1B1F-E857-400F-A644-0F7079190631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "second", "second\second.csproj", "{989846D1-FF47-4383-A205-56D288EDE440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6B1B1F-E857-400F-A644-0F7079190631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6B1B1F-E857-400F-A644-0F7079190631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6B1B1F-E857-400F-A644-0F7079190631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6B1B1F-E857-400F-A644-0F7079190631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989846D1-FF47-4383-A205-56D288EDE440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989846D1-FF47-4383-A205-56D288EDE440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989846D1-FF47-4383-A205-56D288EDE440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989846D1-FF47-4383-A205-56D288EDE440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+F:\实践小组\web编程\ASP.NET\数据控件\查看GridView控件中数据的详细信息\bin\查看GridView控件中数据的详细信息.dll
+F:\实践小组\web编程\ASP.NET\数据控件\查看GridView控件中数据的详细信息\bin\查看GridView控件中数据的详细信息.pdb
+F:\实践小组\web编程\ASP.NET\数据控件\查看GridView控件中数据的详细信息\obj\Debug\ResolveAssemblyReference.cache
+F:\实践小组\web编程\ASP.NET\数据控件\查看GridView控件中数据的详细信息\obj\Debug\查看GridView控件中数据的详细信息.dll
+F:\实践小组\web编程\ASP.NET\数据控件\查看GridView控件中数据的详细信息\obj\Debug\查看GridView控件中数据的详细信息.pdb

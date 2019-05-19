@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="数据控件">
+</Property><Property Name="解决方案文件" Value="F:\实践小组\web编程\ASP.NET（代码）\数据控件\数据控件.sln">
+</Property><Property Name="Date" Value="2013年11月1日">
+</Property><Property Name="Time" Value="16:13">
+</Property></Properties><Event ErrorLevel="0" Project="查看GridView控件中数据的详细信息" Source="查看GridView控件中数据的详细信息\查看GridView控件中数据的详细信息.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="查看GridView控件中数据的详细信息" Source="查看GridView控件中数据的详细信息\查看GridView控件中数据的详细信息.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="利用GridView控件分页显示数据" Source="利用GridView控件分页显示数据\利用GridView控件分页显示数据.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="利用GridView控件分页显示数据" Source="利用GridView控件分页显示数据\利用GridView控件分页显示数据.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="使用GridView控件绑定数据源" Source="使用GridView控件绑定数据源\使用GridView控件绑定数据源.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="使用GridView控件绑定数据源" Source="使用GridView控件绑定数据源\使用GridView控件绑定数据源.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="在GridView控件中排序数据" Source="在GridView控件中排序数据\在GridView控件中排序数据.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="在GridView控件中排序数据" Source="在GridView控件中排序数据\在GridView控件中排序数据.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="在GridView控件中实现全选和全不选功能（checkbox）" Source="在GridView控件中实现全选和全不选功能\在GridView控件中实现全选和全不选功能（checkbox）.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="在GridView控件中实现全选和全不选功能（checkbox）" Source="在GridView控件中实现全选和全不选功能\在GridView控件中实现全选和全不选功能（checkbox）.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="在GridView控件中对数据进行编辑操作" Source="在GridView控件中对数据进行编辑操作\在GridView控件中对数据进行编辑操作.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="在GridView控件中对数据进行编辑操作" Source="在GridView控件中对数据进行编辑操作\在GridView控件中对数据进行编辑操作.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GridView控件与DropDownList控件的结合" Source="GridView控件与DropDownList控件的结合\GridView控件与DropDownList控件的结合.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="GridView控件与DropDownList控件的结合" Source="GridView控件与DropDownList控件的结合\GridView控件与DropDownList控件的结合.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="向GridView控件中插入记录" Source="向GridView控件中插入记录\向GridView控件中插入记录.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="向GridView控件中插入记录" Source="向GridView控件中插入记录\向GridView控件中插入记录.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="使用DataList控件绑定数据源" Source="WebApplication1\使用DataList控件绑定数据源.csproj" Description="无法打开项目文件以执行升级操作。">
+</Event><Event ErrorLevel="2" Project="分页显示DataList控件中的数据" Source="WebApplication2\分页显示DataList控件中的数据.csproj" Description="无法打开项目文件以执行升级操作。">
+</Event><Event ErrorLevel="2" Project="查看DataList控件中数据的详细信息" Source="WebApplication3\查看DataList控件中数据的详细信息.csproj" Description="无法打开项目文件以执行升级操作。">
+</Event><Event ErrorLevel="2" Project="在DataList控件中对数据进行编辑操作" Source="WebApplication4\在DataList控件中对数据进行编辑操作.csproj" Description="无法打开项目文件以执行升级操作。">
+</Event><Event ErrorLevel="0" Project="" Source="数据控件.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="数据控件.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="查看GridView控件中数据的详细信息" Source="查看GridView控件中数据的详细信息\查看GridView控件中数据的详细信息.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="利用GridView控件分页显示数据" Source="利用GridView控件分页显示数据\利用GridView控件分页显示数据.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="使用GridView控件绑定数据源" Source="使用GridView控件绑定数据源\使用GridView控件绑定数据源.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="在GridView控件中排序数据" Source="在GridView控件中排序数据\在GridView控件中排序数据.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="在GridView控件中实现全选和全不选功能（checkbox）" Source="在GridView控件中实现全选和全不选功能\在GridView控件中实现全选和全不选功能（checkbox）.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="在GridView控件中对数据进行编辑操作" Source="在GridView控件中对数据进行编辑操作\在GridView控件中对数据进行编辑操作.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="GridView控件与DropDownList控件的结合" Source="GridView控件与DropDownList控件的结合\GridView控件与DropDownList控件的结合.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="向GridView控件中插入记录" Source="向GridView控件中插入记录\向GridView控件中插入记录.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
